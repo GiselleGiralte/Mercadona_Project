@@ -34,3 +34,7 @@ Debido al objetivo que busca Mercadona, han surgido las siguientes preguntas:
 
 ✅ Para la vertical eat&go, ¿Qué tipo de alimentos recomendaríamos y por qué?
 
+
+### 📝 Nota
+Cabe destacar que este proyecto fue desarrollado en un grupo de 3, trabajamos en equipo y por separado. En primer lugar desarrollamos cada pregunta por separado,una vez adquirida las respuestas, se llevó a cabo la limpieza y la organización de la información para crear los dataframe definitivos y poder migrarlos creando un modelo de datos eficiente para crear las visualizaciones finales.
+
